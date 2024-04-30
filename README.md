@@ -12,7 +12,7 @@ To use the naive matrix multiplication algorithm:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone
+   git clone https://github.com/mubahilll/Matrix-Multiplication
    ```
 2. Navigate to the directory containing files.
    ```bash
